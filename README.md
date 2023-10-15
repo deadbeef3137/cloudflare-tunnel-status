@@ -8,7 +8,9 @@
 This script is designed to interact with the Cloudflare API to retrieve the status of available tunnels. It fetches and displays details about each tunnel such as its name, ID, and status. The script fetches credential information from environment variables and utilizes the requests library to interact with the API.
 
 #Requirements
+
 ###Python Version
+
 Ensure that Python 3.12 is installed on your system. You can download it from the [official Python website](https://www.python.org/downloads/).
 
 ### Dependencies Installation
