@@ -21,6 +21,7 @@ pip install -r requirements.txt
 In the case the `requirements.txt` file is not provided, you must install the necessary packages manually. For the given script, you'll need:
 
 `python-dotenv`: to handle the loading of environment variables from a `.env` file.
+
 `requests`: to make HTTP requests.
 
 You can install these packages by running:
