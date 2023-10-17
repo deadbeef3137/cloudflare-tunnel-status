@@ -54,6 +54,7 @@ Si encuentra un problema, mostrará un mensaje de error indicando el código de 
 No dude en hacer fork del repositorio y enviar pull requests para cualquier mejora, corrección de errores o funcionalidad adicional. Siempre asegúrese de seguir las mejores prácticas para la codificación y adherirse a la estructura actual del script.
 
 ## Licencia
-Esta integración se publica bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
+Este script se publica bajo la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 ## Descargo de Responsabilidad
+Este proyecto no está afiliado ni respaldado por Cloudflare.
