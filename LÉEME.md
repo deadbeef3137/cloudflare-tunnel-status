@@ -1,7 +1,7 @@
 # Cloudflare Tunnel Monitor
 
 [![Licencia: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![Monitor de Túneles Cloudflare|128](https://raw.githubusercontent.com/deadbeef3137/ha-cloudflare-tunnel-monitor/master/images/cloudflare-tunnel.png)
+![Monitor de Túneles Cloudflare|128](https://raw.githubusercontent.com/deadbeef3137/ha-cloudflare-tunnel-monitor/master/images/logo.png)
 
 # Acerca de
 Este script está diseñado para interactuar con la API de Cloudflare para recuperar el estado de los túneles disponibles. Obtiene y muestra detalles sobre cada túnel, como su nombre, ID y estado. El script obtiene la información de las credenciales a partir de variables de entorno y utiliza la librería `requests` para interactuar con la API.
